@@ -19,6 +19,8 @@
 
 [Day 09 - Functions In JavaScript](Day09.html)
 
+[Day 10 - JavaScript Window Functions](Day09.html)
+
 <hr>
 
 ## Projects Done
