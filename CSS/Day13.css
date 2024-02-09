@@ -1,0 +1,26 @@
+h1{
+    background-color: yellow;
+}
+
+.btn{
+    
+    margin-left: 200px;
+    background-color: aquamarine;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    border-radius: 7px ;
+    border: 0px #fff;
+    transition: all;
+    transition-duration: .2s;
+}
+
+.btn:hover{
+    
+    transform: translateY(-5px);
+    box-shadow: 5px 5px 5px 5px #747070;
+    box-shadow: 2px 2px #5bccef;
+    
+}
