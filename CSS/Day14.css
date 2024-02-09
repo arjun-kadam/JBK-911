@@ -1,0 +1,11 @@
+h1{
+    background-color: yellow;
+}
+input{
+    padding: 7px;
+    border-radius: 5px;
+}
+button{
+    width: 100px;
+    height: 30px;
+}
